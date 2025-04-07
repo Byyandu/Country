@@ -1,0 +1,7 @@
+/* импорт библиотеки leaflet для отображения карты на сайте */
+@import 'https://unpkg.com/leaflet/dist/leaflet.css';
+/* применение шрифта Manrope ко всему сайту, и шрифт на случай если шрифт не удастся загрузить */
+body {
+    font-family: 'Manrope', sans-serif;
+    background-color: #F6F6F6;
+  }
